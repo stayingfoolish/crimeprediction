@@ -1,2 +1,2 @@
 # crimeprediction
-Chicago Crime predictiion(theft, narcotics) by district 
+Chicago Crime prediction(theft, narcotics) by district 
